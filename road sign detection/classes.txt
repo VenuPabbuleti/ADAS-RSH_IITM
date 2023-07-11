@@ -1,0 +1,13 @@
+left hand curve
+narrow bridge ahead
+no entry
+over taking prohibited
+pedestrain crossing
+right hand curve
+speed limit 20
+speed limit 40
+speed limit 60
+speed limit 80
+stop
+u turn
+u turn prohibited
